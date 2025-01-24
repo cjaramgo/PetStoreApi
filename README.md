@@ -1,4 +1,4 @@
-# API Automation Challenge - Petstore - OpenAPI 3.0
+# API Automation Challenge - PetStore - OpenAPI 3.0
 
 Proposed Test cases for Automation:
 ----------------------
@@ -8,7 +8,7 @@ Proposed Test cases for Automation:
 3. Get a pet detail by its ID (GET)
 4. Get all pets by status (GET)
 5. Get all pets by tags (GET)
-6. Update a existing Pet (PUT)
+6. Update an existing Pet (PUT)
 7. Verify invalid pet by its ID (GET)
 
 **Store (Orders)**
@@ -34,7 +34,7 @@ Setup Instructions (Macbook)
 
 1. Clone the repository:
 ```
-pending
+https://github.com/cjaramgo/PetStoreApi.git
 ```
 2. Install Maven. Run following command in terminal -> ```brew install maven```
 3. Install Allure. Run following command in terminal -> ```brew install allure```
